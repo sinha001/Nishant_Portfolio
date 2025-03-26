@@ -1,4 +1,3 @@
-import { title } from "process";
 import React from "react";
 
 const MagicButton = ({title, icon, position, handleClick, otherClasses}:{
